@@ -39,7 +39,7 @@ namespace CovidRepo {
             cmd.ExecuteNonQuery();
             con.Close();
 
-
+            //comment
             //if ((first != "") & (first != "First Name")) {
             //    if ((last != "") & (last != "Last Name")) {
             //        if ((gender != "") & (gender != "Gender")) {
