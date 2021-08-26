@@ -1,0 +1,10 @@
+C:\Users\strua\source\repos\CovidRepo\CovidRepo\obj\Debug\CovidRepo.csproj.AssemblyReference.cache
+C:\Users\strua\source\repos\CovidRepo\CovidRepo\obj\Debug\CovidRepo.Properties.Resources.resources
+C:\Users\strua\source\repos\CovidRepo\CovidRepo\obj\Debug\CovidRepo.csproj.GenerateResource.cache
+C:\Users\strua\source\repos\CovidRepo\CovidRepo\obj\Debug\CovidRepo.csproj.CoreCompileInputs.cache
+C:\Users\strua\source\repos\CovidRepo\CovidRepo\bin\Debug\CovidRepo.exe.config
+C:\Users\strua\source\repos\CovidRepo\CovidRepo\bin\Debug\CovidRepo.exe
+C:\Users\strua\source\repos\CovidRepo\CovidRepo\bin\Debug\CovidRepo.pdb
+C:\Users\strua\source\repos\CovidRepo\CovidRepo\obj\Debug\CovidRepo.exe
+C:\Users\strua\source\repos\CovidRepo\CovidRepo\obj\Debug\CovidRepo.pdb
+C:\Users\strua\source\repos\CovidRepo\CovidRepo\obj\Debug\CovidRepo.Form1.resources
